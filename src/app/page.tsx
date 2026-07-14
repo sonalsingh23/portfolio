@@ -127,7 +127,7 @@ export default function Home() {
               <Reveal>
                 <p className="eyebrow">About</p>
                 <h2 className="heading-xl mt-4 max-w-xl text-4xl text-white sm:text-5xl">
-                  Sonal Kumari — full-stack developer from idea to production.
+                  Sonal — full-stack developer from idea to production.
                 </h2>
               </Reveal>
 
